@@ -5,3 +5,31 @@
 .jumbotron {
   background-color: inherit;
 }
+
+.jumbotron p {
+    color: #A39A8B;
+}
+
+.projects {
+  margin-top: 20px;
+}
+
+.projects .panel-heading {
+  background-color: #2F4E84;
+}
+
+.projects h2{
+  color: #FFFFFD;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.about .panel-heading {
+  background-color: #2F4E84;
+}
+
+.about h2{
+  color: #FFFFFD;
+  font-size: 25px;
+  font-weight: bold;
+}
