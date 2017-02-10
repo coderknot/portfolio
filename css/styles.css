@@ -56,10 +56,18 @@ a:hover {
   font-weight: bold;
 }
 
-.education ol {
+.about h3 {
+  font-size: 20px;
+}
+
+.education ol, .experience ol {
   list-style: none;
 }
 
-.experience ol {
-  list-style: none;
+.education li, .experience li {
+  margin-top: 15px;
+}
+
+.footer {
+  color: #A39A8B;
 }
