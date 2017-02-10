@@ -33,6 +33,10 @@ a:hover {
   font-weight: bold;
 }
 
+.projects h3 {
+  font-size: 20px;
+}
+
 .projects .col-md-4 {
   border-color: #A39A8B;
   border-style: solid;
@@ -50,4 +54,12 @@ a:hover {
   color: #FFFFFD;
   font-size: 25px;
   font-weight: bold;
+}
+
+.education ol {
+  list-style: none;
+}
+
+.experience ol {
+  list-style: none;
 }
