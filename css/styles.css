@@ -1,3 +1,12 @@
+a {
+  color: #2F4E84;
+}
+
+a:hover {
+  color: #26272C;
+  text-decoration: none;
+}
+
 .header img {
   float: right;
 }
@@ -22,6 +31,15 @@
   color: #FFFFFD;
   font-size: 25px;
   font-weight: bold;
+}
+
+.projects .col-md-4 {
+  border-color: #A39A8B;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
 }
 
 .about .panel-heading {
