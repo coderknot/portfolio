@@ -23,7 +23,7 @@ This webpage is a portfolio for Chris Carr. It includes a list of projects creat
 ## GitHub Pages
 [Chris Carr's repository](https://coderknot.github.io/portfolio)
 
-### License
+## License
 
 MIT License
 
