@@ -27,6 +27,14 @@ a:hover {
   background-color: #2F4E84;
 }
 
+.projects .panel-body {
+  background-color: #A39A8B;
+}
+
+.projects .panel-body p:first-child {
+    color: #FFFFFD;
+}
+
 .projects h2{
   color: #FFFFFD;
   font-size: 25px;
@@ -39,6 +47,14 @@ a:hover {
 
 .about .panel-heading {
   background-color: #2F4E84;
+}
+
+.about .panel-body {
+  background-color: #A39A8B;
+}
+
+.about .panel-body p:first-child {
+    color: #FFFFFD;
 }
 
 .about h2{
