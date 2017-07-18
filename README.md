@@ -21,7 +21,7 @@ This webpage is a portfolio for Chris Carr. It includes a list of projects creat
 * Bootstrap
 
 ## GitHub Pages
-[Chris Carr's Portfolio](https://coderknot.github.io/portfolio)
+[Chris Carr's Portfolio](http://coderknot.com)
 
 ## License
 
